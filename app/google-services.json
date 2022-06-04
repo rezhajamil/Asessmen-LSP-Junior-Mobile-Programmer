@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488584949259",
+    "project_id": "asesmen-jmp",
+    "storage_bucket": "asesmen-jmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488584949259:android:45a55ea97aca0542cce10e",
+        "android_client_info": {
+          "package_name": "com.rezha.asesmen_jmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488584949259-j95ti3jv3clbtjd9qicop8hpi9sr0ha9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVWudVDpnA9sfBSxYgVyECFk6vLp2i2Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488584949259-j95ti3jv3clbtjd9qicop8hpi9sr0ha9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
